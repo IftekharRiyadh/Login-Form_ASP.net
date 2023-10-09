@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8fqfpL7wjqvDjT406lrvHpUVkyG7WoAJ7/cYPYseKHiv0NHCZS97AhyyTUmqhGER1FFYBSbLJP01eOwgbKZFrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\riyad\\source\\repos\\LoginForm\\MSIdemo\\MSIdemo.wapproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22621.755\\microsoft.windows.sdk.buildtools.10.0.22621.755.nupkg.sha512"
+  ],
+  "logs": []
+}

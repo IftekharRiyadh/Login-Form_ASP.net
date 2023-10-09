@@ -1,0 +1,8 @@
+C:\Users\riyad\source\repos\LoginForm\LoginForm\obj\Debug\net6.0\LoginForm.csproj.AssemblyReference.cache
+C:\Users\riyad\source\repos\LoginForm\LoginForm\obj\Debug\net6.0\LoginForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riyad\source\repos\LoginForm\LoginForm\obj\Debug\net6.0\LoginForm.AssemblyInfoInputs.cache
+C:\Users\riyad\source\repos\LoginForm\LoginForm\obj\Debug\net6.0\LoginForm.AssemblyInfo.cs
+C:\Users\riyad\source\repos\LoginForm\LoginForm\obj\Debug\net6.0\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\riyad\source\repos\LoginForm\LoginForm\obj\Debug\net6.0\LoginForm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\riyad\source\repos\LoginForm\LoginForm\obj\Debug\net6.0\LoginForm.RazorAssemblyInfo.cache
+C:\Users\riyad\source\repos\LoginForm\LoginForm\obj\Debug\net6.0\LoginForm.RazorAssemblyInfo.cs
